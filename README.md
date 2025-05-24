@@ -30,8 +30,12 @@ A simple GUI-based Java application to manage basic banking operations like:
 5. Run the main Java class to start the application.
 
 ## Screenshots
+![IMG_20250524_222845](https://github.com/user-attachments/![IMG_20250524_222815](https://github.com/user-attachments/assets/4a02452d-85f8-43c0-913a-2b8f7c50a31a)
+assets/8100be32-e0c9-43af-8ed8-738537449295)
 
+![IMG_20250524_222957](https://github.com/user-attachments/assets/b33d9e5a-e011-4c07-a985-7cd7ab31aecd)
 
+![IMG_20250524_222957](https://github.com/user-attachments/assets/c73844cf-0795-4a52-8fd3-c54faabd632b)
 
 ## Author
 
